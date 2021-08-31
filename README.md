@@ -1,3 +1,4 @@
-:point_right: These lines should be removed and assignment result should be placed in this file.  
-:point_right: See instruction folder for assignment instruction.  
-
+CSUN ECE 420
+Getting Started with Git
+Name: evan-thomas
+Date: september-6th
