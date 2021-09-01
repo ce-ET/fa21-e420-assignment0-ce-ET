@@ -1,11 +1,13 @@
 **CSUN ECE 420**  
-Getting Started with Git  
+-
+**Getting Started with Git**  
+-
 **Name: evan-thomas**  
 **Date: september-6th**  
 
-FPGA  
-VHDL  
-Verilog  
+* FPGA  
+* VHDL  
+* Verilog  
 
 ![image](https://user-images.githubusercontent.com/89795951/131444871-6f6b6e98-cb00-4c51-a923-073115d7ef8d.png)  
 
@@ -39,4 +41,6 @@ begin
     end process;
     count <= pre_count;
 end Behavioral;
-```
+```  
+![image](https://github.com/csun-ece/fa21-e420-assignment0-ce-ET/blob/master/img/git_stat.png.jpg)
+
