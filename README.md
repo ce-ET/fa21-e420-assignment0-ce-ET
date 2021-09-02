@@ -42,5 +42,4 @@ begin
     count <= pre_count;
 end Behavioral;
 ```  
-![image](https://github.com/csun-ece/fa21-e420-assignment0-ce-ET/blob/master/img/git_stat.png.jpg)
-
+![image](./img/git_stat.png)
