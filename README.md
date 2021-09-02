@@ -1,6 +1,6 @@
 **CSUN ECE 420**  
 -
-**Getting Started with bash terminal**  
+**Getting Started with Git**  
 -
 **Name: evan-thomas**  
 **Date: september-6th**  
