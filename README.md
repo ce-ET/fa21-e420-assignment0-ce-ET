@@ -40,4 +40,6 @@ begin
     count <= pre_count;
 end Behavioral;
 ```  
-![image](./img/git_stat.png)
+
+
+![git status before stage](./img/git_stat.png)
