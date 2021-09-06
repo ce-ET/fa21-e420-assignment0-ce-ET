@@ -1,7 +1,7 @@
 # CSUN ECE 420  
 # Getting Started with Git   
-**Name: evan-thomas**  
-**Date: september-6th**  
+**Name: Evan Thomas**  
+**Date: 09/06/2021**  
 
 * FPGA  
 * VHDL  
@@ -11,7 +11,7 @@
 
 [Evan Thomas](https://github.com/ce-ET)  
 ```VHDL
-#library ieee;
+library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
 
