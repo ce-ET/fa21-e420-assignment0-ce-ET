@@ -1,7 +1,5 @@
-**CSUN ECE 420**  
--
-**Getting Started with Git**  
--
+# CSUN ECE 420  
+# Getting Started with Git**  
 **Name: evan-thomas**  
 **Date: september-6th**  
 
@@ -9,9 +7,9 @@
 * VHDL  
 * Verilog  
 
-![image](https://user-images.githubusercontent.com/89795951/131444871-6f6b6e98-cb00-4c51-a923-073115d7ef8d.png)  
+![CSUN ENG](./img/csun_eng_logo.png)  
 
-[Evan Thomas](https://github.com/csun-ece/fa21-e420-assignment0-ce-ET)  
+[Evan Thomas](https://github.com/ce-ET)  
 ```VHDL
 #library ieee;
 use ieee.std_logic_1164.all;
