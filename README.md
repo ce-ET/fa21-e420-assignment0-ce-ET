@@ -1,5 +1,5 @@
 # CSUN ECE 420  
-# Getting Started with Git   
+## Getting Started with Git   
 **Name: Evan Thomas**  
 **Date: 09/06/2021**  
 
